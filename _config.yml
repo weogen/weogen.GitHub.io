@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
+  clientID: Ov23lidxK9Fm3uLKK6pS
+  clientSecret: bfc8e589a88217e84401f68dde2a5bad9b00679b
   repo: weogen.github.io
   owner: weogen
 
