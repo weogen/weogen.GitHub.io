@@ -5,6 +5,6 @@
 
 ### 致谢
 
-感谢lemonchann[lemonchann github](https://github.com/lemonchann/lemonchann.github.io)模提供了原始主题模板，我在其上进行的二次开发。
+感谢lemonchann [github](https://github.com/lemonchann/lemonchann.github.io)提供了原始模板
 
 
